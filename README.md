@@ -21,7 +21,7 @@ terms link to docs.github.com.
 
 ## Step 6: Merge your pull request
 
-_Almost there! :heart:_
+_Almost here! :heart:_
 
 You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
 
